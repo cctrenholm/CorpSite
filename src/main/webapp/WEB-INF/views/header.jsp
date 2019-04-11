@@ -37,7 +37,7 @@
                                 </li>  
                                 <li>
                                     <a href="#">
-                                        Locations-Locations
+                                        Locations-Location
                                     </a>
                                     <ul>
                                         <li>
